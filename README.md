@@ -4,6 +4,8 @@
 
 - Having understood the 10 Arm Bandit problem (https://github.com/hsty/10-arm-bandit) I wanted to implement the UCB method.
 
+- In addition to the RLBook (http://incompleteideas.net/book/RLbook2020.pdf), this paper helped me a lot (https://people.maths.bris.ac.uk/~maajg/teaching/stochopt/ucb.pdf)
+
 - I chose to seperate the processing of dataseries into two different function to separate concerns and clear implementation. 
   As earlier, the primary motivation is to understand the 10 ARM UCB method better.
 
