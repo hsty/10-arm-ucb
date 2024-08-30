@@ -1,4 +1,4 @@
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/hshett?country.x=US&locale.x=en_US)
+
 
 # Java Implementation for 10 Arm Upper Confidence Bound Problem
 
